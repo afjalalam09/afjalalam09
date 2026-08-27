@@ -47,13 +47,14 @@ Currently, I am actively seeking a **Data Analyst** role to apply my analytical 
 
 ## 🚀 Featured Projects
 
-* 🛡️ **[Real-Time Fraud Detection System ](https://github.com/afjalalam09)** <br> Built a Machine Learning pipeline for 500K+ financial records, achieving a 0.91 ROC-AUC. Deployed a Streamlit risk-monitoring dashboard for Explainable AI. <br> **Skills Used:** `Python`, `LightGBM`, `SMOTE`, `SHAP`, `Streamlit`, `Pandas`, `NumPy`
-
-* 🍕 **[Pizza Sales Performance Analytics](https://github.com/afjalalam09)** <br> Built a dynamic Power BI dashboard backed by complex SQL queries to process 48K+ records. Delivered actionable insights on peak sales trends and top/worst sellers. <br> **Skills Used:** `SQL`, `Power BI`, `DAX`, `Data Visualization`
-
 * 🛒 **[Customer Shopping Behavior Analysis](https://github.com/afjalalam09/Customer-Shopping-Behavior-Analysis)** <br> Engineered an end-to-end ETL pipeline to clean retail data and automate ingestion into PostgreSQL. Built an interactive Power BI dashboard uncovering a 73% non-subscriber gap. <br> **Skills Used:** `Python (Pandas)`, `PostgreSQL`, `Power BI`, `ETL Pipelines`
 
 * 📶 **[Telecom Customer Churn Analysis](https://github.com/afjalalam09/telecom-churn-retention-analytics)** <br> Modeled and cleaned raw telecom data. Analyzed churn drivers highlighting high-risk month-to-month contracts via a Power BI dashboard. <br> **Skills Used:** `Advanced Excel`, `Power Query`, `SQL`, `DAX`, `Power BI`
+ 
+* 🍕 **[Pizza Sales Performance Analytics](https://github.com/afjalalam09)** <br> Built a dynamic Power BI dashboard backed by complex SQL queries to process 48K+ records. Delivered actionable insights on peak sales trends and top/worst sellers. <br> **Skills Used:** `SQL`, `Power BI`, `DAX`, `Data Visualization`
+
+* 🛡️ **[Real-Time Fraud Detection System ](https://github.com/afjalalam09)** <br> Built a Machine Learning pipeline for 500K+ financial records, achieving a 0.91 ROC-AUC. Deployed a Streamlit risk-monitoring dashboard for Explainable AI. <br> **Skills Used:** `Python`, `LightGBM`, `SMOTE`, `SHAP`, `Streamlit`, `Pandas`, `NumPy`
+  
 
 ---
 
